@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    margin-top: 10%;
+}
+
+canvas{
+    border: 1px solid darkblue;
+    background-color: darkcyan;
+}
+
+div{
+    text-align: center;
+    margin: 5% 35%;
+}
